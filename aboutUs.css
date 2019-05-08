@@ -1,0 +1,20 @@
+.banner{background: url('../images/aboutUs_banner.jpg'); background-size: cover; width: 100%;}
+.banner-text h1{color: #fff; text-align: center; padding: 10%; font-size: 5em;}
+.about-text p:first-child{padding-top: 5%;}
+hr{margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 1px solid #eee;}
+.trending > p > i{color: teal; font-size: 40px;}
+.trending > p:first-child{float: left; padding-right: 15px; display: inline-block;}
+.trending > p:nth-of-type(2){font-size: 35px; position: relative; top: -15px; display: table-cell;}
+.trending > p:nth-of-type(3){position: relative; margin-top: -24px;}
+.mentor{margin: 20px 0px 30px 0px; padding-left: 15px;}
+.team-Mates{background: #e4eff1; padding-top: 35px; width: 100%; display: inline-table; padding-bottom: 50px;}
+.team-Mates h2{text-align: center; color: teal; font-family: 'Montserrat', sans-serif; padding-bottom: 20px;}
+.team-Mates .col-md-3{display: inline-block;}
+.features{padding-top: 35px; display: inline-table; width: 100%;}
+.features h2{text-align: center; color: teal; font-family: 'Montserrat', sans-serif; padding-bottom: 20px;}
+.features .col-md-4{display: inline-block;}
+.feature-skill > p > i{color: teal; font-size: 40px;}
+.feature-skill > p:first-child{float: left; padding-right: 15px; display: inline-block;}
+.feature-skill > p:nth-of-type(2){font-size: 15px; position: relative; top: 0px; display: inline-block;}
+.feature-skill > p:nth-of-type(3){position: relative; margin-top: -15px; font-size: 13px; display: flex;}
+.feature-skill .col-md-4{display: inline-block;}
